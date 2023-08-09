@@ -2,6 +2,8 @@
 
 > A repo to play with MongoDB
 
+<img src="./screenshot.jpg" alt="Screenshot of todo app" align="center">
+
 ## Requirements
 
 The Nodejs version specified in `.nvmrc`.
