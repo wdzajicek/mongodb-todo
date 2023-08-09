@@ -7,7 +7,7 @@ import TodoTask from './models/TodoTask.js';
 // GLOBAL VARIABLES
 const app = express();
 
-// Load database connection config from .env file
+// Load `.env` file into `process.env` to use as database connection config
 dotenv.config();
 
 // Access form submissions
